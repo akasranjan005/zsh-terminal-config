@@ -34,4 +34,10 @@ mkdir ~/.virtualenvs
 brew install thefuck
 ```
 
-## 
+## Install fzf
+
+```
+brew install fzf
+$(brew --prefix)/opt/fzf/install
+```
+

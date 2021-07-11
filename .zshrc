@@ -107,6 +107,7 @@ source $ZSH/oh-my-zsh.sh
 # Custom Setup
 
 ## virtualenvwrapper
+VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
 export PATH=/usr/local/bin:$PATH
 source /usr/local/bin/virtualenvwrapper.sh
 
